@@ -1,4 +1,8 @@
 public Cliente{
     int id,
-    String nomeCliente
+    String nomeCliente,
+
+    void mostrarId(): {
+        println(this.id);
+    }
 };
