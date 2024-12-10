@@ -1,4 +1,4 @@
 public Cliente{
     int id,
-    String nome
+    String nomeCliente
 };
