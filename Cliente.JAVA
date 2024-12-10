@@ -1,8 +1,9 @@
 public Cliente{
-    int id,
+    String id,
     String nomeCliente,
+    int saldo,
 
     void mostrarId(): {
         println(this.id);
-    }
+    },
 };
