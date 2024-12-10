@@ -1,4 +1,5 @@
 public Cliente{
-    int id,
-    String nomeCliente
+    String id,
+    String nomeCliente,
+    int saldo,
 };
