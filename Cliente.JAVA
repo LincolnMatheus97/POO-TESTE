@@ -1,5 +1,5 @@
 public Cliente{
-    int id,
+    String id,
     String nomeCliente,
     int saldo,
 };
